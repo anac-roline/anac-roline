@@ -12,9 +12,21 @@
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 
-## Ferramenta de Desenvolvimento
+## Ferramentas de Desenvolvimento
 
 ![Visual Studio Code Badge](https://img.shields.io/badge/VS%20Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white)
+![Git Badge](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker Badge](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Azure Data Studio Badge](https://img.shields.io/badge/Azure%20Data%20Studio-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Power BI Badge](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SSMS Badge](https://img.shields.io/badge/SSMS-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Planilha Excel Badge](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoftexcel&logoColor=white)
+![Vercel Badge](https://img.shields.io/badge/Vercel-000000?style=flat&logo=vercel&logoColor=white)
+![Lovable Badge](https://img.shields.io/badge/Lovable-FFD1DC?style=flat&logo=lovable&logoColor=black)
+![Google Gemini Badge](https://img.shields.io/badge/Google%20Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
+![Claude Code Badge](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
+![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
+![Adobe Badge](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
 
 
 <!--
