@@ -5,12 +5,20 @@
 ![HTML Badge](https://img.shields.io/badge/HTML-E34F26?style=flat&logo=html5&logoColor=white)
 ![CSS Badge](https://img.shields.io/badge/CSS-1572B6?style=flat&logo=css3&logoColor=white)
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![React Badge](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js Badge](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=nodedotjs&logoColor=white)
 ![PHP Badge](https://img.shields.io/badge/PHP-8993BE?style=flat&logo=php&logoColor=white)
 ![Python Badge](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
 ![C Badge](https://img.shields.io/badge/C-A8B9CC?style=flat&logo=c&logoColor=black)
+![C# Badge](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![Prolog Badge](https://img.shields.io/badge/Prolog-D93A49?style=flat)
+![SQL Badge](https://img.shields.io/badge/SQL-003B57?style=flat&logo=sqlite&logoColor=white)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
+![PostgreSQL Badge](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white)
+![SQL Server Badge](https://img.shields.io/badge/SQL%20Server-CC292B?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Linguagem M Badge](https://img.shields.io/badge/Linguagem%20M-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Arduino Badge](https://img.shields.io/badge/Arduino-00979D?style=flat&logo=arduino&logoColor=white)
 ![GitHub Badge](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
-
 
 ## Ferramentas de Desenvolvimento
 
@@ -27,7 +35,6 @@
 ![Claude Code Badge](https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=anthropic&logoColor=white)
 ![WordPress Badge](https://img.shields.io/badge/WordPress-21759B?style=flat&logo=wordpress&logoColor=white)
 ![Adobe Badge](https://img.shields.io/badge/Adobe-FF0000?style=flat&logo=adobe&logoColor=white)
-
 
 <!--
 **anac-roline/anac-roline** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
